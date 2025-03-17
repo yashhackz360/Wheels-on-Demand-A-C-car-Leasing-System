@@ -1,0 +1,19 @@
+
+
+	****************************** YASHWANTH's CAR LEASING SYSTEM 
+	                                  RECEIPT                                    
+
+	 CUSTOMER DETAILS: 
+
+	 CUSTOMER NAME :   
+
+	 CONTACT : 0
+
+	__
+
+	 TYPE OF CAR        DAYS                COST/DAY            TOTAL COST 
+    
+
+
+
+	
